@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1002385674498",
+    "firebase_url": "https://battlecity-a8cde-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "battlecity-a8cde",
+    "storage_bucket": "battlecity-a8cde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002385674498:android:9eb8e40425dd22ce2ff21b",
+        "android_client_info": {
+          "package_name": "com.Solomka.BattleCity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002385674498-i66mbgvro4hivcajc4dtgnmp5h5kk1rg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Solomka.BattleCity",
+            "certificate_hash": "a5823bf164bf78c1263e0ddb41385c5337df8974"
+          }
+        },
+        {
+          "client_id": "1002385674498-hdpdt7mf2bupdh969hakku0t4lhfh68o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnGCC3-3xjLK2tZix4FLVbzj0tXC_CAbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002385674498-hdpdt7mf2bupdh969hakku0t4lhfh68o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

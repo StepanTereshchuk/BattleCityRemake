@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49ed932fa6d69c445a553a9283b7436a, type: 3}
+  m_Name: Sound_ButtonSelected
+  m_EditorClassIdentifier: 
+  _audioClip: {fileID: 8300000, guid: 8516d9286cf07434b9fcd1cf353cc97c, type: 3}
+  _audioMixerGroup: {fileID: 5410315797915864438, guid: 4f7372fc743c10c489365518b0fccfde, type: 2}
+  _layerType: 0
+  _soundKey: 17
+  _looping: 0

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 287a32fcd1b353d4eb9001cd30a99763, type: 3}
+  m_Name: EnemySmallTank
+  m_EditorClassIdentifier: 
+  actualHealth: 1
+  moveSpeed: 3
+  blockingLayer:
+    serializedVersion: 2
+    m_Bits: 1728
+  projectileSpeed: 10
+  projectileDamage: 1
+  projectilePrefab: {fileID: 6910159425377495941, guid: 43d18228e428f21488386a83a9f7fe22, type: 3}
+  blinkRepeatRate: 0.3
+  blinkDelay: 0
+  minTimeBeforeFire: 3
+  maxTimeBeforeFire: 5
+  minTimeBeforeChangeDirection: 2
+  maxTimeBeforeChangeDirection: 6
